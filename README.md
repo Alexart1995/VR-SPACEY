@@ -2,7 +2,7 @@
 Desktop and VR app for testing the quality of the approach of the cosmonaut rescue device with the International Space Station
 
 ## Introduction 
-This Software was made in VR/AR Laboratory of Lomonosov Moscow State University depending on special practice of Mechanics&Mathematics Department of Lomonosov Moscow State University "Testing the quality of the approach of the cosmonaut rescue device with the International Space Station"
+This Software was made in VR/AR Laboratory of Lomonosov Moscow State University depending on special practice of Mechanics and Mathematics Department of Lomonosov Moscow State University "Testing the quality of the approach of the cosmonaut rescue device with the International Space Station"
 
 ## Main menu
 ### Types of buttons
