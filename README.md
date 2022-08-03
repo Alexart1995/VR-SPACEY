@@ -3,13 +3,13 @@ Desktop and VR app for testing the quality of the approach of the cosmonaut resc
 
 ## Desktop Version Overview
 ### Main Menu
-<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/MainMenu.png" width="920" height="480"> <br>
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/MainMenu.png" width="320" height="160"> <br>
 ### Generate Menu
-<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/GenerateMenu.png" width="920" height="480"> <br> 
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/GenerateMenu.png" width="320" height="160"> <br> 
 ### Check Menu
-<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/CheckMenu.png" width="920" height="480"> <br>
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/CheckMenu.png" width="320" height="160"> <br>
 ### Game Interface
-<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/DesktopGameplay.png" width="920" height="480"> <br>
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/DesktopGameplay.png" width="320" height="160"> <br>
 
 ## Introduction 
 This Software was made in VR/AR Laboratory of Lomonosov Moscow State University depending on special practice of Mechanics and Mathematics Department of Lomonosov Moscow State University "Testing the quality of the approach of the cosmonaut rescue device with the International Space Station"
