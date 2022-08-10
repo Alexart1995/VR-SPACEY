@@ -18,9 +18,9 @@ Due to the fact that the work is the property of VR/AR Laboratory of Lomonosov M
 
 ## VR Version Overview
 ### Game Interface
-<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/VR1.png" width="320" height="160"> <br>
-<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/VR3.png" width="320" height="160"> <br>
-<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/VR5.png" width="320" height="160"> <br>
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/VR1.png" width="320" height="320"> <br>
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/VR3.png" width="320" height="320"> <br>
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/VR5.png" width="320" height="320"> <br>
 
 ## Main menu
 ### Types of buttons
