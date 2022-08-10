@@ -16,6 +16,16 @@ Due to the fact that the work is the property of VR/AR Laboratory of Lomonosov M
 ### Game Interface
 <img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/DesktopGameplay.png" width="320" height="160"> <br>
 
+## VR Version Overview
+### Main Menu
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/MainMenu.png" width="320" height="160"> <br>
+### Generate Menu
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/GenerateMenu.png" width="320" height="160"> <br> 
+### Check Menu
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/CheckMenu.png" width="320" height="160"> <br>
+### Game Interface
+<img src="https://github.com/Alexart1995/VR-SPACEY/blob/main/DesktopGameplay.png" width="320" height="160"> <br>
+
 ## Main menu
 ### Types of buttons
 - GENERATE - switching to the option generation mode for students
