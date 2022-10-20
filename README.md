@@ -1,6 +1,5 @@
 # VR-SPACEY
 Desktop and VR app for testing the quality of the approach of the cosmonaut rescue device with the International Space Station
-
 ## Introduction 
 This Software was made in VR/AR Laboratory of Lomonosov Moscow State University depending on special practice of Mechanics and Mathematics Department of Lomonosov Moscow State University "Testing the quality of the approach of the cosmonaut rescue device with the International Space Station" (see in materials). <br>
 Examples of how the application works are shown in the attached videos. <br>
